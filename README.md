@@ -5,7 +5,7 @@ A React + Vite powered movie search application that allows users to search for 
 **Search Movies by Name:** Users can search for their favorite movies by entering the movie name in the search bar.
 **Responsive Design:** The application is designed to be responsive and works well on various devices.
 **OMDB API Integration:** Utilizes the OMDB API to fetch movie data, including movie posters, titles, and other details.
-Screenshots
+# Screenshots
 ![Screenshot 2024-08-06 051605](https://github.com/user-attachments/assets/6275a2eb-2a9c-4567-900f-c4689a72fe1b)
 ![Screenshot 2024-08-06 051546](https://github.com/user-attachments/assets/812bd49b-64a8-4063-adc8-65a3e8871ea0)
 ![Screenshot 2024-08-06 051524](https://github.com/user-attachments/assets/a56b3af2-ebae-446d-9528-bd2f124e21e7)

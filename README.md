@@ -1,4 +1,4 @@
-#Movie Search App
+# Movie Search App
 A React + Vite powered movie search application that allows users to search for movies by name using the OMDB API. This project demonstrates a simple yet effective way to interact with external APIs and display data dynamically.
 
 Features

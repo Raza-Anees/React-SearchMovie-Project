@@ -3,54 +3,38 @@ A React + Vite powered movie search application that allows users to search for 
 
 # Features
 **Search Movies by Name:** Users can search for their favorite movies by entering the movie name in the search bar.
-Responsive Design: The application is designed to be responsive and works well on various devices.
-OMDB API Integration: Utilizes the OMDB API to fetch movie data, including movie posters, titles, and other details.
+**Responsive Design:** The application is designed to be responsive and works well on various devices.
+**OMDB API Integration:** Utilizes the OMDB API to fetch movie data, including movie posters, titles, and other details.
 Screenshots
+![Screenshot 2024-08-06 051605](https://github.com/user-attachments/assets/6275a2eb-2a9c-4567-900f-c4689a72fe1b)
+![Screenshot 2024-08-06 051546](https://github.com/user-attachments/assets/812bd49b-64a8-4063-adc8-65a3e8871ea0)
+![Screenshot 2024-08-06 051524](https://github.com/user-attachments/assets/a56b3af2-ebae-446d-9528-bd2f124e21e7)
 
-Installation
-Clone the Repository:
 
-bash
-Copy code
-git clone https://github.com/your-username/movie-search-app.git
-cd movie-search-app
-Install Dependencies:
+# Installation
+**Clone or Download the Zip the Repository:**
 
-bash
-Copy code
-npm install
-Create a .env File:
+Open with Vs code or any other editor that suits you
+Run the command ****npm install**** to install the dependencies
+After that run the command ****npm run dev****
 
-Create a .env file in the root of the project and add your OMDB API key:
 
-env
-Copy code
-VITE_OMDB_API_KEY=your_api_key_here
-Run the Application:
 
-bash
-Copy code
-npm run dev
-Build for Production:
-
-bash
-Copy code
-npm run build
-Usage
+# Usage
 Open your browser and go to http://localhost:5173.
 Use the search bar to enter the name of a movie you want to search for.
 The application will display a list of movies matching the search criteria.
-Technologies Used
+# Technologies Used
 React: A JavaScript library for building user interfaces.
 Vite: A next-generation frontend tooling for fast and efficient development.
 OMDB API: An API to get movie data.
-Contributing
+# Contributing
 Contributions are welcome! Please open an issue or submit a pull request for any changes.
 
-License
+# License
 This project is licensed under the MIT License.
 
-Acknowledgements
+# Acknowledgements
 OMDB API for providing the movie data.
 React for the frontend library.
 Vite for the development tooling.
